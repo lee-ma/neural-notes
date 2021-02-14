@@ -4,7 +4,9 @@ Online school has greatly decreased the quality of teaching, making it difficult
 NeuralNotes will allow students to capture quick summaries of lecture notes and videos to make studying more effective and efficient. We wanted to develop something to support student productivity, celebrate learning diversity, and help students overcome virtual adversities
 
 ## What it does
-NeuralNotes is a tool that takes in a pdf or mp4 input file. Then, these files are parsed and text is extracted from the pdf file and from the audio in the mp4 file. This text is displayed, highlighting any key words that our algorithm identifies. A summary of the text is also generated which provides a quick overview of the contents within the lecture. The keywords that are identified can be accessed on Wikipedia through our tool. 
+NeuralNotes is a tool that takes in a pdf or mp4 input file. Then, these files are parsed and text is extracted from the pdf file and from the audio in the mp4 file. This text is displayed, highlighting any key words that our algorithm identifies. A summary of the text is also generated which provides a quick overview of the contents within the lecture. The keywords that are identified can be accessed on Wikipedia through our tool.
+
+https://www.youtube.com/watch?v=ns5dV_KPH7w
 
 ## How we built it
 NeuralNotes is built on top of a unique architecture that enables us to provide a streamlined user experience to students seeking increased productivity or accessibility. The front-end is built with React which allows us to offer a sleek and modern UI while also allowing us to create powerful client-side functionality, like performing string matching to replace keywords with associated weblinks. 
